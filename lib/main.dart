@@ -110,14 +110,4 @@ class _MainPageState extends State<MainPage> {
       ),
     );
   }
-
-  // @override
-  // Widget build(BuildContext context) {
-  //   return Column(
-  //     children: [
-  //       Text(selectedPhrase),
-  //       ElevatedButton(onPressed: generatePhrase, child: Text('Gerar frase')),
-  //     ],
-  //   );
-  // }
 }
