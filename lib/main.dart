@@ -101,7 +101,6 @@ class _MainPageState extends State<MainPage> {
               onPressed: generatePhrase,
               color: Colors.green.shade800,
               textTheme: ButtonTextTheme.values[2],
-
               padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12),
               child: Text('Gerar frase', style: TextStyle(fontSize: 20)),
             ),
